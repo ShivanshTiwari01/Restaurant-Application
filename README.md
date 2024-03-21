@@ -1,10 +1,12 @@
 ## Restaurant Application
 
-- This is Full stack Restaurant app built using MERN Stack. I have created my own server using NodeJS and ExpressJS and MongoDB(noSQL database) as database to store the information.
+- This is Full Stack Restaurant Application built using MERN Stack
 
-- App is designed to use for a particular restaurants with franchise so the customers can choose there nearest location.
+- I have created backend server using NodeJS,ExpressJS and MongoDB(noSQL database) as database to store the information.
 
-- Customers can reserver tables on a particular date and time using valid email and phone number.
+- App is designed to use for a particular restaurant with franchise so the customers can choose there nearest location.
+
+- Customers can reserve tables for a particular date and time using valid email and phone number.
 
 ### To run the app 
 
