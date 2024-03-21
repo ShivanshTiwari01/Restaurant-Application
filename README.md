@@ -1,4 +1,4 @@
-## Restaurant Application
+# Restaurant Application
 
 - This is Full Stack Restaurant Application built using MERN Stack
 
@@ -8,7 +8,7 @@
 
 - Customers can reserve tables for a particular date and time using valid email and phone number.
 
-### To run the app 
+## To run the app 
 
 - Clone or download repository and run npm install in both frontend and backend separately
 
